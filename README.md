@@ -14,7 +14,7 @@ Tecnologias Usadas
     HTML5 e CSS3 para estrutura e estilo.
     JavaScript para animações e interatividade.
     Fontes do Google Fonts para tipografia moderna e estilosa.
-
-  Contribuições
   
   Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou fazer um pull request.
+
+Tenha em mente que esse é um projeto feito por MIM, ele está em desenvolvimento, qualquer coisa pode mudar
