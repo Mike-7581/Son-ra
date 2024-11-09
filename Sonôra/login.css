@@ -46,31 +46,38 @@ body {
 
 .welcome-section {
     width: 55%;
-    text-align: center;
     padding-top: 5%;
 }
 
 .oi {
-    font-size: 3em;
+    position: absolute;
+    left: 42%;
+    top: 25%;
+    font-size: 3.5em;
     font-weight: 300;
     margin-bottom: 0.2em;
 }
 
 .subtitulo {
-    font-size: 1.2em;
+    position: absolute;
+    top: 35%;
+    font-size: 2em;
     font-weight: 300;
     background: linear-gradient(90deg, #5c5c5c, white, #5c5c5c);
     background-size: 200%;
     background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
-    animation: slideGradient 3s linear infinite;
+    animation: slideGradient 4s linear infinite;
     margin-top: 0;
 }
 
 /* Estilo para o texto Sonôra */
 .sonora {
-    font-size: 2.5em;
+    position: absolute;
+    left: 55%;
+    top: 40%;
+    font-size: 4em;
     font-weight: 300; /* Deixa o texto fino */
     margin-top: 0.3em; /* Espaçamento para separar do subtítulo */
     color: white;
