@@ -1,44 +1,33 @@
-Licença de Uso para Projeto "Sonôra"
+# Licença Restrita - Todos os Direitos Reservados
 
-Este software está protegido por direitos autorais. O autor concede permissão para a visualização e o estudo do código-fonte disponível neste repositório com fins exclusivamente educacionais e pessoais. Este documento estabelece os termos e condições para o uso permitido e as restrições aplicáveis ao projeto "Sonôra".
-Termos da Licença
+**Direitos Autorais (c) 2024 Talysson Aguinário Grande dos Santos**
 
-    Permissão de Visualização e Estudo do Código
-    O código fonte contido neste repositório pode ser visualizado e estudado apenas para aprendizado pessoal e acadêmico. Qualquer uso que vá além desses objetivos requer autorização formal do autor.
+Este software é propriedade de Talysson Aguinário Grande dos Santos e está protegido por leis de direitos autorais e tratados internacionais. Todos os direitos estão reservados. Nenhuma permissão é concedida para acessar, usar, copiar, distribuir, modificar ou realizar engenharia reversa deste software, total ou parcialmente, sem autorização expressa.
 
-    Proibido Redistribuir
-    A redistribuição, cópia, ou qualquer outra forma de disseminação deste código, seja ela pública ou privada, digital ou física, é expressamente proibida. Isso inclui, mas não se limita a:
-        Compartilhamento em plataformas de código aberto ou repositórios públicos;
-        Envio ou distribuição do código a terceiros;
-        Upload do código, parcial ou integralmente, para qualquer outro meio digital.
+## Termos de Uso
 
-    Qualquer redistribuição do código sem autorização escrita do autor será considerada violação dos direitos autorais e poderá resultar em medidas legais.
+- **Uso Pessoal e Comercial**: O uso deste software para qualquer finalidade, seja ela pessoal, educacional ou comercial, é estritamente proibido sem a autorização prévia e expressa de Talysson Aguinário Grande dos Santos.
 
-    Proibido Uso Comercial
-    É proibido utilizar este código para fins comerciais ou em produtos ou serviços que tenham intuito lucrativo, incluindo:
-        Incorporação do código em projetos comerciais;
-        Uso em ambientes empresariais sem autorização expressa;
-        Qualquer exploração econômica direta ou indireta do código.
+- **Distribuição e Compartilhamento**: Não é permitido distribuir, compartilhar ou tornar este software acessível a terceiros, seja de forma gratuita ou comercial.
 
-    Caso você tenha interesse em utilizar este código para fins comerciais, uma licença comercial específica deve ser negociada diretamente com o autor.
+- **Download e Reprodução**: Qualquer tentativa de download, reprodução ou obtenção de cópia deste software é estritamente proibida.
 
-    Proibido Modificar e Distribuir Derivados
-    Não é permitido modificar, alterar ou criar obras derivadas do código fonte deste projeto com intenção de redistribuição, mesmo sem fins lucrativos. As restrições incluem:
-        Modificação para uso próprio e subsequente distribuição;
-        Redistribuição de versões modificadas ou "forks" do código.
+- **Modificação e Engenharia Reversa**: A modificação, engenharia reversa, descompilação, desmontagem ou qualquer forma de alteração deste software são estritamente proibidas.
 
-    Qualquer adaptação ou alteração destinada a distribuição precisa da autorização expressa do autor.
+## Exceções
 
-    Uso Estritamente Pessoal e Educacional
-    Esta licença se destina a permitir o uso do código apenas para estudo e aprendizado pessoal. Qualquer uso público, exibição em apresentações, inclusão em trabalhos de pesquisa ou qualquer outra forma de exposição pública requer permissão expressa. A licença não se estende ao uso em ambientes de colaboração pública, como hackathons, eventos educacionais, ou ambientes de ensino sem autorização prévia do autor.
+Exceções a estes termos podem ser concedidas somente com a autorização prévia e expressa de Talysson Aguinário Grande dos Santos. Para solicitações de permissões, entre em contato com o autor.
 
-    Limitação de Garantias
-    Este código é fornecido "como está", sem garantias ou promessas de funcionalidade, segurança, precisão ou adequação a qualquer finalidade específica. O autor não se responsabiliza por eventuais problemas, danos ou perdas que possam surgir do uso ou da tentativa de uso do código. O usuário assume todos os riscos associados ao uso do software.
+### Permissão Especial para `Samuel Henrique Oliveira de Paula`
 
-Informações do Autor e Contato para Permissão
+Talysson Aguinário Grande dos Santos concede uma exceção a `Samuel Henrique Oliveira de Paula`, permitindo a este usuário, especificamente:
 
-Para obter permissão para usos específicos ou para discutir a possibilidade de uma licença comercial, entre em contato diretamente com o autor:
+- **Permissão Completa**: `Samuel Henrique Oliveira de Paula` tem permissão para acessar, usar, copiar, distribuir, modificar e redistribuir este software, total ou parcialmente, para qualquer propósito, seja ele pessoal, educacional ou comercial.
 
-    Discord: mike7581
+Esta permissão é exclusiva ao usuário `Samuel Henrique Oliveira de Paula` e não se aplica a terceiros.
 
-Qualquer utilização deste código que esteja em desacordo com os termos estabelecidos neste documento será considerada uma violação de direitos autorais e poderá resultar em medidas legais conforme permitido pela legislação aplicável.
+## Garantia e Responsabilidade
+
+Este software é fornecido "como está", sem garantias de qualquer tipo, expressas ou implícitas, incluindo, sem limitação, garantias de comercialização, adequação a um propósito específico e não violação. Em nenhuma circunstância o autor será responsável por quaisquer danos, perdas ou problemas decorrentes do uso ou incapacidade de uso deste software.
+
+---
