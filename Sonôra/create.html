@@ -3,31 +3,34 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap" rel="stylesheet">
-    <link rel="icon" href="images/placeholder.png"image="x-icon">
+    <link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap" rel="preload" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <link rel="icon" href="images/placeholder.png" type="image/x-icon">
     <link rel="stylesheet" href="styles/create.css">
     <script src="scripts/language.js" defer></script>
+    <script src="scripts/createAccount.js" defer></script>
     <title>Sonôra</title>
+    <style>
+        .error-message { color: red; font-size: 0.9em; }
+        .success-message { color: green; font-size: 0.9em; }
+    </style>
 </head>
 <body>
     <div id="bar-animation" class="bar-animation"></div>
     <section class="main-container">
-        <form class="login">
-            <p class="introduction">Crie seu email</p>
+        <form class="login" id="create-account-form">
+            <p class="introduction">Crie sua conta</p>
             <label class="emaillabel" for="email">Email:</label>
             <input class="emailinput" type="email" id="email" name="email" placeholder="Digite seu email">
-
             
             <label id="password-label" class="passwordlabel" for="password">Senha:</label>
             <input class="passwordinput" type="password" id="password" name="password" placeholder="Digite sua senha">
-            <input class="passwordinputconfirm" id="passwordinputconfirm" placeholder="Confirme sua senha" type="email">
             
-            <button type="submit" id="login-button" class="login-button">Entrar</button>
+            <label class="passwordlabel" for="passwordinputconfirm">Confirme sua senha:</label>
+            <input class="passwordinputconfirm" id="passwordinputconfirm" name="passwordinputconfirm" placeholder="Confirme sua senha" type="password">
             
-            <div class="quick-login">
-                <p id="quick-login-text">Ou entre rapidamente com:</p>
-                <button id="google-login" type="button" class="google-login">Entrar com Google</button>
-            </div>
+            <button type="button" id="create-account-button" class="login-button">Criar Conta</button>
+            
+            <div id="message" class="error-message"></div>
         </form>
 
         <div class="welcome-section">
@@ -36,7 +39,6 @@
             <h3 class="sonora">Sonôra</h3>
         </div>
     </section>
-
     <button id="language-button" class="language trocar">🇧🇷</button>
 </body>
 </html>
