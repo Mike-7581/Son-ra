@@ -75,13 +75,21 @@ body {
 
 /* Estilo para o texto Sonôra */
 .sonora {
+    font-family: 'Horizon', sans-serif;
     position: absolute;
-    left: 55%;
-    top: 40%;
-    font-size: 4em;
-    font-weight: 300; /* Deixa o texto fino */
-    margin-top: 0.3em; /* Espaçamento para separar do subtítulo */
+    left: 40%;
+    top: 43%;
+    font-size: 7em;
+    font-weight: 300;
     color: white;
+}
+
+/* Carregamento da fonte personalizada */
+@font-face {
+    font-family: 'Horizon';
+    src: url('../fonts/Horizon.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
 }
 
 /* Estilos dos campos do formulário */
