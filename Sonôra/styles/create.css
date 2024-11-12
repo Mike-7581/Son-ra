@@ -35,6 +35,8 @@ body {
 }
 
 .login {
+    position: relative;
+    left: 4%;
     background-color: #365682;
     width: 40%;
     height: 70%;
@@ -77,7 +79,7 @@ body {
 .sonora {
     font-family: 'Horizon', sans-serif;
     position: absolute;
-    left: 40%;
+    left: 42%;
     top: 43%;
     font-size: 7em;
     font-weight: 300;
