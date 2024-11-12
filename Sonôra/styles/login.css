@@ -45,7 +45,6 @@ body {
     flex-direction: column;
 }
 
-/* Seção de boas-vindas */
 .welcome-section {
     width: 55%;
     padding-top: 5%;
@@ -73,13 +72,12 @@ body {
     animation: slideGradient 4s linear infinite;
 }
 
-/* Estilo para o texto Sonôra */
 .sonora {
     font-family: 'Horizon', sans-serif;
     position: absolute;
-    left: 55%;
+    left: 70%;
     top: 40%;
-    font-size: 4em;
+    font-size: 9.5em;
     font-weight: 300;
     color: white;
 }
@@ -87,7 +85,7 @@ body {
 /* Carregamento da fonte personalizada */
 @font-face {
     font-family: 'Horizon';
-    src: url('fonts/horizon.otf') format('opentype');
+    src: url('../fonts/Horizon.otf') format('opentype');
     font-weight: normal;
     font-style: normal;
 }
