@@ -94,7 +94,7 @@ body {
 
 /* Estilos dos campos do formulário */
 .emaillabel, .passwordlabel {
-    margin-top: 1%;
+    margin-top: 15px;
     font-size: 1em;
     margin-bottom: 5px;
     color: white;
@@ -106,6 +106,7 @@ body {
 }
 
 .emailinput, .passwordinput, .passwordinputconfirm{
+    margin-top: 1px;
     font-family: ('Horizon') sans-serif;
     padding: 10px;
     font-size: 1em;
@@ -124,7 +125,7 @@ body {
     border: none;
     border-radius: 5px;
     cursor: pointer;
-    margin-top: 10px;
+    margin-top: 20px;
     transition: background-color 0.3s;
 }
 
