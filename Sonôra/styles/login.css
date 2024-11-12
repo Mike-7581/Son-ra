@@ -75,9 +75,9 @@ body {
 .sonora {
     font-family: 'Horizon', sans-serif;
     position: absolute;
-    left: 70%;
+    left: 40%;
     top: 40%;
-    font-size: 9.5em;
+    font-size: 7em;
     font-weight: 300;
     color: white;
 }
