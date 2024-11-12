@@ -148,11 +148,10 @@ body {
 
 .quick-login {
     position: absolute;
-    display: flex;
+    display:inherit;
     flex-direction: column;
-    align-items: center;
     margin-top: 350px;
-    margin-left: 4%;
+    margin-left: 20%;
     color: white;
     font-size: 0.9em;
 }

@@ -78,7 +78,7 @@ body {
     font-family: 'Horizon', sans-serif;
     position: absolute;
     left: 42%;
-    top: 40%;
+    top: 43%;
     font-size: 7em;
     font-weight: 300;
     color: white;
@@ -121,15 +121,31 @@ body {
     transition: background-color 0.3s;
 }
 
+.createRedirect{
+    position: absolute;
+    left: 47%;
+    top: 66.3%;
+    font-size: 0.9em;
+    color: white;
+    text-decoration: none;
+}
+
+.createRedirect:hover{
+    text-decoration: underline;
+}
+
 .login-button:hover {
     background-color: #021f6c;
 }
 
 .recover-password {
+    flex-direction: column;
+    align-items: center;
+    color: white;
     font-size: 0.9em;
     margin-top: 10px;
     text-decoration: none;
-    color: white;
+    
 }
 
 .recover-password:hover {
